@@ -94,3 +94,22 @@ Once player finds all the supplies, fire is started and water collector setup, n
 "How strange, to see northern lights so far down south. I wonder if there is some electromagnetic anomaly around here… could explain why the buggy's electrical system died. Anyway… I should get some rest now. Tomorrow I'll head into town and see if I can find out what the hell is going on."
 
 **END CHAPTER ONE**
+
+# Items:
+
+Inventory starts with:
+
+- 1 water bottle (empty?)
+- 1 taser gun
+- 1 radio
+- 1 can of food
+- 1 notebook
+
+Items available in the area:
+
+- wood
+- flint
+- paper or other starter
+- bucket
+- antiseptic
+- some message left by the guy that went crazy
