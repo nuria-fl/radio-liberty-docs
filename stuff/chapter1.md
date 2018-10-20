@@ -1,4 +1,6 @@
-# Scene 1: the road
+# Chapter 1: Stranded
+
+## Scene 1: the road
 
 ### Cutscene
 
@@ -29,11 +31,11 @@ There is some sort of building down the road. Looks like a good shelter, I'll ca
 
 Fades to black, ends Scene 1
 
-# Scene 2: the building
+## Scene 2: the building
 
 ### Cutscene
 
-Camera pans around the area. Buggy is next to a half-build, abandoned building. There are some signs that the building has served as a shelter for someone else. The word LIBBY is written all through the walls.
+Camera pans around the area. Radio antennas are visible on the horizon. Buggy is next to a half-build, abandoned building. There are some signs that the building has served as a shelter for someone else. The word LIBBY is written all through the walls.
 
 **SURVIVOR:**
 "Hm, doesn't look like anyone is been here for some time, but I bet I can find something useful lying around. I should start a fire and find some food and water, I'm running low"
@@ -44,7 +46,7 @@ When player gets upstairs, cutscene starts
 
 ### Cutscene
 
-A man appears from the left side. He looks crazy.
+A man appears from the left side. He is dressed in a lab coat and he looks crazy.
 
 **SURVIVOR:**
 "Oh… Hello"
@@ -71,7 +73,7 @@ Player gets control
 
 ### Cutscene
 
-Savage attacks and throws survivor to the floor and bites her. Life bar goes down.
+Savage attacks and throws survivor to the floor and bites her. Life bar goes down. While defending herself, survivor rips a piece of cloth of the savage's coat.
 
 Then the Survivor's radio starts doing some static noise.
 
@@ -84,10 +86,11 @@ Survivor gets up (it would be cool if animation was different when hurt)
 
 ### Player
 
-Life bar should be lowering at a considerable pace. If player doesn't find and use medical supplies, player dies
+Life bar should be lowering at a considerable pace. If player doesn't find and use medical supplies, player dies. As bandage, the ripped cloth must be used. When picking it up, there is also an ID card attached to it. Mentions some "Radio Liberty"
 
-Once player finds all the supplies, fire is started and water collector setup:
+Once player finds all the supplies, fire is started and water collector setup, night falls. Aurora borealis show up.
 
-**SURVIVOR:** "Well… I should get some rest now. Tomorrow I'll head into town and see if I can find a new battery for the buggy."
+**SURVIVOR:**
+"How strange, to see northern lights so far down south. I wonder if there is some electromagnetic anomaly around here… could explain why the buggy's electrical system died. Anyway… I should get some rest now. Tomorrow I'll head into town and see if I can find out what the hell is going on."
 
 **END CHAPTER ONE**
